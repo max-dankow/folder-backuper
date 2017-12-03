@@ -1,0 +1,3 @@
+# rule_name: master_folder => slave_folder
+test: master => slave
+ibooks: /Users/maximdankovtsev/Library/Mobile Documents/iCloud~com~apple~iBooks/Documents => ibookshere
